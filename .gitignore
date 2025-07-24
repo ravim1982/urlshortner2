@@ -1,0 +1,14 @@
+# Ignore compiled output
+target/
+*.class
+*.log
+*.db
+
+# Maven
+.mvn/
+.idea/
+*.iml
+
+# H2 database files
+*.mv.db
+*.trace.db
